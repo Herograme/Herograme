@@ -23,8 +23,8 @@ I like to spend most of my time studying new technologies and always learning ne
 
 <div>
   <a href="https://github.com/Herograme">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfelipe&layout=compact&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfelipe&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herograme&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Herograme&show_icons=true&theme=radical" />
   </a>
 </div>
 
